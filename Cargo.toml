@@ -1,5 +1,5 @@
 [package]
-name = "json_streamer"
+name = "json-streamer"
 version = "0.1.0"
 authors = ["Alexandre Bury <alexandre.bury@gmail.com>"]
 
